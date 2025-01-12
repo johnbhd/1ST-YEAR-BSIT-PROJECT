@@ -4,69 +4,38 @@ This repository is a compilation of tasks and projects I completed as a 1st-year
 
 ---
 
-## 🔍 Overview
-
-- [📘 1st Semester](#1st-semester)
-  - [Task 1: [Project 1 Title]](#project-1-title-semester-1)
-  - [Task 2: [Project 2 Title]](#project-2-title-semester-1)
-- [📗 2nd Semester](#2nd-semester)
-  - [Task 1: [Project 1 Title]](#project-1-title-semester-2)
-  - [Task 2: [Project 2 Title]](#project-2-title-semester-2)
+## 🗂️ Table of Contents
+1. [🚀 1st Semester](#1st-semester)
+   - [📂 Subject 1: Project 1](#project-1-title-1st-semester)
+2. [📗 2nd Semester](#2nd-semester)
+   - [📂 Subject 1: Project 1](#project-1-title-2nd-semester)
 
 ---
 
-## 📘 1st Semester
+## 🚀 1st Semester
 
-### **Subject 1: [Subject Name]**
+### **Subject 1: [Intro to Programming]**
 #### Projects:
-- **[Project 1 Title](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/branch-or-folder-for-project-1)**  
-  _Description:_ Brief explanation of what this project is about.  
-  **[Click here to view](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/branch-or-folder-for-project-1)**  
-  _(Anchor link below: [Project 1 Title])_
-
-- **[Project 2 Title](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/branch-or-folder-for-project-2)**  
-  _Description:_ Brief explanation of what this project is about.  
-  **[Click here to view](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/branch-or-folder-for-project-2)**  
-  _(Anchor link below: [Project 2 Title])_
-
----
-
-### **Subject 2: [Subject Name]**
-#### Projects:
-- **[Project 1 Title](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/branch-or-folder-for-project-1-subject-2)**  
-  _Description:_ Brief explanation of what this project is about.  
-  **[Click here to view](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/branch-or-folder-for-project-1-subject-2)**  
-  _(Anchor link below: [Project 1 Title Subject 2])_
+<a name="project-1-title-1st-semester"></a>
+- **[Website Design Project](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/website-design-project)**  
+  _Description:_ A project focused on designing a simple static website using HTML, CSS, and JavaScript.  
+  **[Click here to view](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/website-design-project)**
 
 ---
 
 ## 📗 2nd Semester
 
-### **Subject 1: [Subject Name]**
+### **Subject 1: [Data Structures]**
 #### Projects:
-- **[Project 1 Title](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/branch-or-folder-for-project-1-sem2)**  
-  _Description:_ Brief explanation of what this project is about.  
-  **[Click here to view](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/branch-or-folder-for-project-1-sem2)**  
-  _(Anchor link below: [Project 1 Title])_
-
-- **[Project 2 Title](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/branch-or-folder-for-project-2-sem2)**  
-  _Description:_ Brief explanation of what this project is about.  
-  **[Click here to view](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/branch-or-folder-for-project-2-sem2)**  
-  _(Anchor link below: [Project 2 Title])_
-
----
-
-### **Subject 2: [Subject Name]**
-#### Projects:
-- **[Project 1 Title](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/branch-or-folder-for-project-1-subject-2-sem2)**  
-  _Description:_ Brief explanation of what this project is about.  
-  **[Click here to view](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/branch-or-folder-for-project-1-subject-2-sem2)**  
-  _(Anchor link below: [Project 1 Title Subject 2])_
+<a name="project-1-title-2nd-semester"></a>
+- **[Sorting Algorithms Visualizer](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/sorting-algorithms-visualizer)**  
+  _Description:_ A project that visualizes sorting algorithms like Bubble Sort and Merge Sort using JavaScript.  
+  **[Click here to view](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/sorting-algorithms-visualizer)**
 
 ---
 
 ## 🛠️ Tools and Technologies Used
-- List programming languages, frameworks, or tools used in these projects.
+- HTML, CSS, JavaScript
 
 ---
 
