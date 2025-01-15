@@ -14,9 +14,8 @@ This repository is a compilation of tasks and projects I completed as a 1st-year
         - [HTML and CSS Website Project](#html-and-css-website-project)
 2. [📗 2nd Semester](#2nd-semester)
    + [Java Programming](java-programming)
-        - [Program 1](#program-1)
-        - [Program 2](#program-2)
-        - [Program 3](#program-3)
+        - [Java Fundamentals](#java-fundametals)
+    
    + [Web Design](#web-design)
         - [Codes](#codes)
    + [Operating System](#operating-system)
@@ -52,14 +51,8 @@ This repository is a compilation of tasks and projects I completed as a 1st-year
 
 ### **JAVA Programming**
 #### Projects:
-- ### **Program 1**
+- ### **Java Fundamentals**
   _Description:_ Hello world
-  **[Click here to view](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/sorting-algorithms-visualizer)**
-- ### **Program 2**
-  _Description:_ Declaring Variables
-  **[Click here to view](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/sorting-algorithms-visualizer)**
-- ### **Program 3**
-  _Description:_ Displaying 
   **[Click here to view](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/sorting-algorithms-visualizer)**
 
 
