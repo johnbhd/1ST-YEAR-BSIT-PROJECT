@@ -17,7 +17,7 @@ This repository is a compilation of tasks and projects I completed as a 1st-year
         - [Java Fundamentals](#java-fundametals)
     
    + [Web Design](#web-design)
-        - [Codes](#codes)
+        - [HTML ACT 1](#html-act-1)
    + [Operating System](#operating-system)
         - [Codes](#codes)
    + [IT Fundamentals or Database](#c-programming)
@@ -58,9 +58,9 @@ This repository is a compilation of tasks and projects I completed as a 1st-year
 
 ### **Web Design**
 #### Projects:
-- ### **task**
-  _Description:_ Hello world
-  **[Click here to view](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/sorting-algorithms-visualizer)**
+- ### **HTML ACT 1**
+  _Description: html tags
+  **[Click here to view]([https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/sorting-algorithms-visualizer](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/2nd-sem/Web%20Design/Villegas%20html%20act%201))**
 
 
 ### **Operating System**
