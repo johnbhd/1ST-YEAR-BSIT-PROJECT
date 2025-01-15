@@ -60,7 +60,7 @@ This repository is a compilation of tasks and projects I completed as a 1st-year
 #### Projects:
 - ### **HTML ACT 1**
   _Description: html tags
-  **[Click here to view]([https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/2nd-sem/Web%20Design/Villegas%20html%20act%201])**
+  **[Click here to view](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/2nd-sem/Web%20Design/Villegas%20html%20act%201)**
 
 
 ### **Operating System**
