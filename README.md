@@ -18,6 +18,7 @@ This repository is a compilation of tasks and projects I completed as a 1st-year
     
    + [Web Design](#web-design)
         - [HTML ACT 1](#html-act-1)
+        - [HTML ACT 2](#html-act-2)
    + [Operating System](#operating-system)
         - [Codes](#codes)
    + [IT Fundamentals or Database](#c-programming)
@@ -61,6 +62,9 @@ This repository is a compilation of tasks and projects I completed as a 1st-year
 - ### **HTML ACT 1**
   _Description: html tags
   **[Click here to view](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/2nd-sem/Web%20Design/Villegas%20html%20act%201)**
+- ### **HTML ACT 2**
+  _Description: html tags
+  **[Click here to view](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/2nd-sem/Web%20Design/HTML%20ACT%201%20-%20VILLEGAS)**
 
 
 ### **Operating System**
