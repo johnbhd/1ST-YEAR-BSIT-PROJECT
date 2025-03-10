@@ -21,13 +21,14 @@ This repository is a compilation of tasks and projects I completed as a 1st-year
         - [HTML ACT 2](#html-act-2)
         - [STUDENT PORTAL](#student-portal)
         - [AU LANDING PAGE](#au-landing-page)
+        - [Cards Top Place in Phlippines](#cards-top-place-in-phlippines)
    + [Operating System](#operating-system)
         - [Codes](#codes)
    + [IT Fundamentals or Database](#c-programming)
         - [Codes](#codes)
 ---
 
-# 1st Semester
+### **[1st Semester]([https://github.com/johnbhd/30-Days-JAVA/tree/Day1/Day1/src/Day1](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/1st-sem))**
 
 ### **C Programming**
 #### Projects:
@@ -50,7 +51,7 @@ This repository is a compilation of tasks and projects I completed as a 1st-year
   **[Click here to view](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/sorting-algorithms-visualizer)**
 
 ---
-# 2nd Semester
+### **[2nd Semester]([https://github.com/johnbhd/30-Days-JAVA/tree/Day1/Day1/src/Day1](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/2nd-sem))**
 
 ### **JAVA Programming**
 #### Projects:
@@ -74,6 +75,9 @@ This repository is a compilation of tasks and projects I completed as a 1st-year
 - ### **AU LANDING PAGE**
   _Description: midterm project
   **[Click here to view](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/2nd-sem/Web%20Design/AU%20LANDING%20PAGE)**
+- ### **Cards Top Place in Phlippines**
+  _Description: Activity for responsive design
+  **[Click here to view](https://github.com/johnbhd/1ST-YEAR-a-PROJECT/tree/2nd-sem/Web%20Design/Cards%20Top%20Place%20in%20Phiippines)**
 
 
 ### **Operating System**
