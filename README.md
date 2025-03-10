@@ -77,7 +77,7 @@ This repository is a compilation of tasks and projects I completed as a 1st-year
   **[Click here to view](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/2nd-sem/Web%20Design/AU%20LANDING%20PAGE)**
 - ### **Cards Top Place in Phlippines**
   _Description: Activity for responsive design
-  **[Click here to view](https://github.com/johnbhd/1ST-YEAR-a-PROJECT/tree/2nd-sem/Web%20Design/Cards%20Top%20Place%20in%20Phiippines)**
+  **[Click here to view](https://github.com/johnbhd/1ST-YEAR-BSIT-PROJECT/tree/2nd-sem/Web%20Design/Cards%20Top%20Place%20in%20Phiippines)**
 
 
 ### **Operating System**
